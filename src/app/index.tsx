@@ -4,8 +4,8 @@ export default function Home(){
     return(
         <View>
             <Text>
-                Hello React Native!
+                React Native!
             </Text>
         </View>
     )
-}
+}   
