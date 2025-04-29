@@ -1,38 +1,42 @@
-📦 AppDelivery
-Aplicativo de delivery desenvolvido com React Native e TypeScript. Este projeto simula um sistema de pedidos de comida, com foco em uma interface moderna e responsiva.
+# 📦 AppDelivery
 
-🚀 Tecnologias Utilizadas
-React Native
-TypeScript
-Tailwind CSS via NativeWind
-Expo
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)]()
+[![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)]()
+[![Expo](https://img.shields.io/badge/Expo-000000?logo=expo&logoColor=white)]()
 
-Estrutura de Pastas
+Aplicativo de delivery desenvolvido em **React Native**, utilizando **TypeScript**, **NativeWind (Tailwind CSS)** e **Expo**. O app simula um sistema de pedidos de comida com interface moderna e responsiva.
+
+---
+
+## 🧪 Status do Projeto
+
+🚧 Projeto em desenvolvimento  
+📌 Funcionalidades básicas implementadas  
+📈 Planejamento futuro: integração com backend, autenticação de usuários, e sistema de pedidos.
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- ⚛️ [React Native](https://reactnative.dev/)
+- 📘 [TypeScript](https://www.typescriptlang.org/)
+- 🌬️ [Tailwind CSS via NativeWind](https://www.nativewind.dev/)
+- 🚀 [Expo](https://expo.dev/)
+
+---
+
+## 📁 Estrutura do Projeto
+
+```bash
 appdelivery/
 ├── assets/           # Imagens e recursos estáticos
-├── src/              # Código-fonte principal
+├── src/
 │   ├── components/   # Componentes reutilizáveis
 │   ├── screens/      # Telas do aplicativo
-│   └── navigation/   # Configuração de rotas
-├── app.json          # Configurações do Expo
-├── tailwind.config.js# Configuração do Tailwind CSS
-├── package.json      # Dependências e scripts
-└── tsconfig.json     # Configuração do TypeScript
-
-
-🛠️ Como Executar
-Clone o repositório:​
-git clone https://github.com/AlexandrePecker/appdelivery.git
-cd appdelivery
-
-Instale as dependências:​
-npm install
-# ou
-yarn install
-
-Inicie o projeto:​
-npx expo start
-O Expo abrirá uma interface no navegador, permitindo que você execute o aplicativo em um emulador ou dispositivo físico.​
-
-🧪 Status do Projeto
-Atualmente em desenvolvimento. Funcionalidades básicas implementadas, com planos para integração de backend, sistema de autenticação e gerenciamento de pedidos.
+│   └── navigation/   # Navegação
+├── app.json          # Configuração do Expo
+├── tailwind.config.js
+├── package.json
+└── tsconfig.json
