@@ -1,7 +1,5 @@
 # 📦 AppDelivery
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)]()
 [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)]()
 [![Expo](https://img.shields.io/badge/Expo-000000?logo=expo&logoColor=white)]()
